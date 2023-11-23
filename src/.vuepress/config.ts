@@ -9,7 +9,15 @@ export default defineUserConfig({
   description: "vuepress-theme-hope 的博客演示",
 
   theme,
-
+  head: [
+    [
+      "script", {
+        async: true,
+        src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6269542893674001",
+        crossorigin: "anonymous"
+      }
+    ],
+  ]
   // Enable it with pwa
   // shouldPrefetch: false,
 });
