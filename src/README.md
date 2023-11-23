@@ -1,7 +1,7 @@
 ---
 home: true
 layout: BlogHome
-icon: home
+icon: test icon-laohu
 title: 博客主页
 heroImage: /logo.svg
 heroText: 你博客的名称

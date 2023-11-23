@@ -13,14 +13,14 @@ export default hopeTheme({
     url: "https://mister-hope.com",
   },
 
-  iconAssets: "fontawesome-with-brands",
+  iconAssets: ["fontawesome-with-brands","//at.alicdn.com/t/c/font_4343225_uznphu4z76.css"],
 
   logo: "https://theme-hope-assets.vuejs.press/logo.svg",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
   docsDir: "src",
-
+  fullscreen: true,
   // navbar
   navbar,
 
