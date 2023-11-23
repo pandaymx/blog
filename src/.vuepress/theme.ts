@@ -7,7 +7,7 @@ const MR_HOPE_AVATAR =
 
 export default hopeTheme({
   hostname: "https://mister-hope.github.io",
-
+  hotReload: true,
   author: {
     name: "Mr.Hope",
     url: "https://mister-hope.com",

@@ -2,6 +2,7 @@
 title: 幻灯片页
 icon: person-chalkboard
 layout: Slide
+order: 4
 ---
 
 <!-- markdownlint-disable MD024 MD051 -->
