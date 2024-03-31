@@ -115,13 +115,13 @@ export default hopeTheme({
     // },
 
     components: {
-      components: ["Badge", "VPCard","Share"
-    ],
-    componentOptions:{
-      share:{
-        services:["douban","email","qq","qzone","qrcode","weibo"]
+      components: ["Badge", "VPCard", "Share"
+      ],
+      componentOptions: {
+        share: {
+          services: ["douban", "email", "qq", "qzone", "qrcode", "weibo"]
+        }
       }
-    }
     },
 
     // all features are enabled for demo, only preserve features you need here
@@ -171,10 +171,7 @@ export default hopeTheme({
       // gfm requires mathjax-full to provide tex support
       // gfm: true,
       mathjax: true,
-
-      // install mermaid before enabling it
-      // mermaid: true,
-
+      mermaid: true,
       // playground: {
       //   presets: ["ts", "vue"],
       // },
