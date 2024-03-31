@@ -1,7 +1,6 @@
 import { hopeTheme } from "vuepress-theme-hope";
 import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
-import { MR_HOPE_AVATAR } from "./logo.js";
 
 export default hopeTheme({
   hostname: "https://mister-hope.github.io",
@@ -13,9 +12,9 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "favicon.ico",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "pandaymx/blog",
 
   docsDir: "src",
 
@@ -52,7 +51,6 @@ export default hopeTheme({
       Whatsapp: "https://example.com",
       Youtube: "https://example.com",
       Zhihu: "https://example.com",
-      MrHope: ["https://mister-hope.com", MR_HOPE_AVATAR],
     },
   },
 
@@ -69,12 +67,12 @@ export default hopeTheme({
       displayFooter: true,
 
       blog: {
-        description: "A FrontEnd programmer",
+        description: "A funny soul",
         intro: "/en/intro.html",
       },
 
       metaLocales: {
-        editLink: "Edit this page on GitHub",
+        editLink: "Edit this page",
       },
     },
 
@@ -93,13 +91,13 @@ export default hopeTheme({
       displayFooter: true,
 
       blog: {
-        description: "一个前端开发者",
+        description: "一个有趣的灵魂",
         intro: "/intro.html",
       },
 
       // page meta
       metaLocales: {
-        editLink: "在 GitHub 上编辑此页",
+        editLink: "编辑此页",
       },
     },
   },
