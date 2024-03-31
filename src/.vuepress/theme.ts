@@ -132,6 +132,9 @@ export default hopeTheme({
       imgSize: true,
       include: true,
       mark: true,
+      tasklist: true,
+      alert: true,
+      footnote: true,
       stylize: [
         {
           matcher: "Recommended",
