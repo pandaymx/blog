@@ -1,10 +1,12 @@
 ---
-title: 实用技术
-icon: /assets/icon/technology.svg
+title: wsl
+icon: /assets/icon/wsl.svg
+dir:
+  order: 2
 index: false
-isOriginal: true
 category: 
   - 实用技术
+  - WSL
 tag:
   - 目录
 article: false

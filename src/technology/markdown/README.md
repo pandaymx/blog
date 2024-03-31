@@ -15,7 +15,7 @@ timeline: false
 
 ## 主要介绍
 
-Markdown 分为两个章节，第一个章节 [基础](basic.md) 主要介绍了基本的语法，例如 [标题](basic.md#标题) 等。
+Markdown 分为两个章节，第一个章节 [基础](basic.md) 主要介绍了基本的语法，例如标题等。
 
 第二个章节 [进阶](advanced.md) 主要介绍了一些进阶的语法，比如代码块，脚注等。
 
