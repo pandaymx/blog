@@ -163,12 +163,7 @@ export default hopeTheme({
 
       // gfm requires mathjax-full to provide tex support
       // gfm: true,
-
-      // install katex before enabling it
-      // katex: true,
-
-      // install mathjax-full before enabling it
-      // mathjax: true,
+      mathjax: true,
 
       // install mermaid before enabling it
       // mermaid: true,
