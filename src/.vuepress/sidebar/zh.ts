@@ -4,5 +4,6 @@ export const zhSidebar = sidebar({
   "/": [
     "",
     "intro",
+    "technology/"
   ],
 });
