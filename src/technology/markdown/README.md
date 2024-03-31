@@ -21,3 +21,4 @@ Markdown 分为两个章节，第一个章节 [基础](basic.md) 主要介绍了
 
 <Catalog/>
 
+<Share colorful />

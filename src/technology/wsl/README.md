@@ -14,3 +14,4 @@ timeline: false
 ---
 
 <Catalog/>
+<Share colorful />

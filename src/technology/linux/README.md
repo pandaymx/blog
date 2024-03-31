@@ -1,6 +1,6 @@
 ---
-title: 实用技术
-icon: /assets/icon/technology.svg
+title: Linux
+icon: /assets/icon/linux.svg
 index: false
 isOriginal: true
 category: 

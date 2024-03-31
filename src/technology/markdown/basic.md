@@ -200,3 +200,5 @@ Markdown中的段落不建议使用中文中习惯的首行缩进，直接使用
 ```
 
 > 如果&nbsp;&nbsp;&nbsp;&nbsp;这是什么
+
+<Share colorful />

@@ -3,6 +3,11 @@ title: 进阶
 icon: /assets/icon/advance.svg
 order: 2
 isOriginal: true
+category: 
+  - 实用技术
+  - Markdown
+tag:
+  - 基础
 ---
 
 ## 表格
@@ -172,3 +177,5 @@ $$\frac{a}{b}$$
 接下来你可以查看 [GFM](https://github.github.com/gfm/)[^3] 来获得 Markdown 的规范。
 
 [^3]:GFM 是 GitHub Flavored Markdown 的缩写，是 GitHub 使用的 Markdown 语法。
+
+<Share colorful />
