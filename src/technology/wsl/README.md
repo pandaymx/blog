@@ -1,5 +1,5 @@
 ---
-title: wsl
+title: WSL
 icon: /assets/icon/wsl.svg
 dir:
   order: 2

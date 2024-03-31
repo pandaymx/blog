@@ -10,8 +10,6 @@ export default hopeTheme({
     url: "https://ppmb.xyz",
   },
 
-  iconAssets: "fontawesome-with-brands",
-
   logo: "favicon.ico",
 
   repo: "pandaymx/blog",
@@ -117,7 +115,13 @@ export default hopeTheme({
     // },
 
     components: {
-      components: ["Badge", "VPCard"],
+      components: ["Badge", "VPCard","Share"
+    ],
+    componentOptions:{
+      share:{
+        services:["douban","email","qq","qzone","qrcode","weibo"]
+      }
+    }
     },
 
     // all features are enabled for demo, only preserve features you need here
