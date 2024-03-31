@@ -1,12 +1,13 @@
 ---
-title: Linux
-icon: /assets/icon/linux.svg
+title: PostgreSQL
+icon: /assets/icon/postgres.svg
 index: false
 isOriginal: true
 dir:
-  order: 3
+  order: 2
 category: 
-  - 实用技术
+  - 数据库
+  - PostgreSQL
 tag:
   - 目录
 article: false

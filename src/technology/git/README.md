@@ -1,10 +1,10 @@
 ---
-title: Linux
-icon: /assets/icon/linux.svg
+title: Git
+icon: /assets/icon/git.svg
 index: false
 isOriginal: true
 dir:
-  order: 3
+  order: 7
 category: 
   - 实用技术
 tag:

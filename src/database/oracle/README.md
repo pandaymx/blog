@@ -1,12 +1,13 @@
 ---
-title: Linux
-icon: /assets/icon/linux.svg
+title: Oracle
+icon: /assets/icon/oracle.svg
 index: false
 isOriginal: true
 dir:
-  order: 3
+  order: 4
 category: 
-  - 实用技术
+  - 数据库
+  - Oracle
 tag:
   - 目录
 article: false

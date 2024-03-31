@@ -1,12 +1,13 @@
 ---
-title: Linux
-icon: /assets/icon/linux.svg
+title: Redis
+icon: /assets/icon/redis.svg
 index: false
 isOriginal: true
 dir:
-  order: 3
+  order: 5
 category: 
-  - 实用技术
+  - 数据库
+  - Redis
 tag:
   - 目录
 article: false

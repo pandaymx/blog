@@ -1,12 +1,10 @@
 ---
-title: Linux
-icon: /assets/icon/linux.svg
+title: 数据库
+icon: /assets/icon/database.svg
 index: false
 isOriginal: true
-dir:
-  order: 3
 category: 
-  - 实用技术
+  - 数据库
 tag:
   - 目录
 article: false

@@ -1,10 +1,10 @@
 ---
-title: Linux
-icon: /assets/icon/linux.svg
+title: Visual Studio Code
+icon: /assets/icon/vscode.svg
 index: false
 isOriginal: true
 dir:
-  order: 3
+  order: 4
 category: 
   - 实用技术
 tag:

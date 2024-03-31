@@ -1,12 +1,13 @@
 ---
-title: Linux
-icon: /assets/icon/linux.svg
+title: MySQL
+icon: /assets/icon/mysql.svg
 index: false
 isOriginal: true
 dir:
   order: 3
 category: 
-  - 实用技术
+  - 数据库
+  - MySQL
 tag:
   - 目录
 article: false

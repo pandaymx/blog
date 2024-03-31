@@ -1,10 +1,10 @@
 ---
-title: Linux
-icon: /assets/icon/linux.svg
+title: IDEA
+icon: /assets/icon/idea.svg
 index: false
 isOriginal: true
 dir:
-  order: 3
+  order: 5
 category: 
   - 实用技术
 tag:
