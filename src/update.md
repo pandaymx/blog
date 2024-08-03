@@ -11,3 +11,5 @@
 3. Deploy the blog on GitHub Pages with a custom domain
 4. 将文档推送到 Docker Hub
 4. Push the document to Docker Hub
+5. 添加 GitHub READEME.md 文档
+6. Add GitHub READEME.md document
