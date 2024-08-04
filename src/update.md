@@ -62,7 +62,9 @@
 3. 将博客在 GitHub Pages 上部署并自定义域名
 4. 将文档推送到 Docker Hub
 5. 添加 GitHub READEME.md 文档
+
 ---
+
 1. Initialize blog content
 2. Add update history document
 3. Deploy the blog on GitHub Pages with a custom domain
