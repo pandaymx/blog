@@ -27,6 +27,7 @@
 21. 主题配置中添加站点默认许可证
 22. 添加 Waline 评论功能
 23. 修改项目名称
+24. 添加公告功能并添加第一条公告
 
 ---
 1. Modify update history document layout
@@ -52,6 +53,7 @@
 21. Theme configuration adds site default license
 22. Add Waline comment function
 23. Modify project name
+24. Add notice feature and add the first notice
 
 ## 2024-08-04
 
