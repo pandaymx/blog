@@ -20,6 +20,7 @@
 14. 添加主题色选择器
 15. 添加 PWA
 16. 添加全屏功能
+17. 修改 `hostname` 为 `https://blog.ppmblszdp.xyz`
 
 ---
 1. Modify update history document layout
@@ -38,6 +39,7 @@
 14. Add theme color selector
 15. Add PWA
 16. Add full screen feature
+17. Modify `hostname` to `https://blog.ppmblszdp.xyz`
 
 ## 2024-08-04
 
