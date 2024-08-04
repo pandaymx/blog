@@ -11,6 +11,7 @@
 6. 将博客主页的背景替换为每日必应壁纸
 7. 将博客主页的描述替换为随机的一言词句
 8. 添加网站运行时间
+9. 导航栏在特定页面中，位于页面顶部时透明
 
 ---
 1. Modify update history document layout
@@ -21,6 +22,7 @@
 6. Replace the background of the homepage with the daily Bing wallpaper
 7. Replace the description of the homepage with a random one-sentence phrase
 8. Add website running time
+9. Navigation bar is transparent in specific pages when located at the top of the page
 
 
 ## 2024-08-04
