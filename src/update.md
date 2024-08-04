@@ -19,6 +19,7 @@
 13. hr 元素添加车辆图标
 14. 添加主题色选择器
 15. 添加 PWA
+16. 添加全屏功能
 
 ---
 1. Modify update history document layout
@@ -36,6 +37,7 @@
 13. hr element adds car icon
 14. Add theme color selector
 15. Add PWA
+16. Add full screen feature
 
 ## 2024-08-04
 

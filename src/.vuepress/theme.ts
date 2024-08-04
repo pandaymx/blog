@@ -28,7 +28,7 @@ export default hopeTheme({
   // 页脚
   footer: "默认页脚",
   displayFooter: true,
-
+  fullscreen: true,
   // 博客相关
   blog: {
     description: "一个前端开发者",
