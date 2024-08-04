@@ -17,6 +17,7 @@
 11. 项目主页特性添加闪光效果
 12. 博主头像裁剪为圆形
 13. hr 元素添加车辆图标
+14. 添加主题色选择器
 
 ---
 1. Modify update history document layout
@@ -32,6 +33,7 @@
 11. Project homepage features add flashing effect
 12. Blogger avatar is cropped into a circle
 13. hr element adds car icon
+14. Add theme color selector
 
 ## 2024-08-04
 
