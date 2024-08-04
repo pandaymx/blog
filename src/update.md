@@ -26,6 +26,7 @@
 20. 修改默认页脚
 21. 主题配置中添加站点默认许可证
 22. 添加 Waline 评论功能
+23. 修改项目名称
 
 ---
 1. Modify update history document layout
@@ -50,6 +51,7 @@
 20. Modify default footer
 21. Theme configuration adds site default license
 22. Add Waline comment function
+23. Modify project name
 
 ## 2024-08-04
 
