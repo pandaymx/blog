@@ -23,6 +23,7 @@
 17. 修改 `hostname` 为 `https://blog.ppmblszdp.xyz`
 18. 修改 `name` 和 `url`
 19. 修改仓库地址
+20. 修改默认页脚
 
 ---
 1. Modify update history document layout
@@ -44,6 +45,7 @@
 17. Modify `hostname` to `https://blog.ppmblszdp.xyz`
 18. Modify `name` and `url`
 19. Modify repository address
+20. Modify default footer
 
 ## 2024-08-04
 
