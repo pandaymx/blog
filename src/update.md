@@ -28,7 +28,7 @@
 22. 添加 Waline 评论功能
 23. 修改项目名称
 24. 添加公告功能并添加第一条公告
-
+25. 添加必看模块（导航栏、侧边栏、图标和 `README.md`）
 ---
 1. Modify update history document layout
 2. Modify project version to `0.0.1`
@@ -54,6 +54,7 @@
 22. Add Waline comment function
 23. Modify project name
 24. Add notice feature and add the first notice
+25. Add essential modules (Navigation Bar, Sidebar, Icons, and README.md)
 
 ## 2024-08-04
 
