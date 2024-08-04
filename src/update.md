@@ -14,6 +14,7 @@
 9. 导航栏在特定页面中，位于页面顶部时透明
 10. 网站添加下雪效果
 11. 项目主页特性添加闪光效果
+12. 博主头像裁剪为圆形
 
 ---
 1. Modify update history document layout
@@ -27,6 +28,7 @@
 9. Navigation bar is transparent in specific pages when located at the top of the page
 10. Website adds snow effect
 11. Project homepage features add flashing effect
+12. Blogger avatar is cropped into a circle
 
 
 ## 2024-08-04

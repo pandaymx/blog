@@ -3,6 +3,7 @@ import { setupRunningTimeFooter } from "vuepress-theme-hope/presets/footerRunnin
 import { setupTransparentNavbar } from "vuepress-theme-hope/presets/transparentNavbar.js";
 import { setupSnowFall } from "vuepress-theme-hope/presets/snowFall.js";
 import "vuepress-theme-hope/presets/shinning-feature-panel.scss";
+import "vuepress-theme-hope/presets/round-blogger-avatar.scss";
 
 export default defineClientConfig({
   setup() {
