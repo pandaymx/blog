@@ -7,14 +7,13 @@ settings:
 importers:
 
   .:
-    dependencies:
-      '@vuepress/plugin-notice':
-        specifier: 2.0.0-rc.40
-        version: 2.0.0-rc.40(vuepress@2.0.0-rc.14(@vuepress/bundler-vite@2.0.0-rc.14(@types/node@22.1.0)(sass@1.77.8)(terser@5.31.3))(vue@3.4.35))
     devDependencies:
       '@vuepress/bundler-vite':
         specifier: 2.0.0-rc.14
         version: 2.0.0-rc.14(@types/node@22.1.0)(sass@1.77.8)(terser@5.31.3)
+      '@vuepress/plugin-notice':
+        specifier: 2.0.0-rc.40
+        version: 2.0.0-rc.40(vuepress@2.0.0-rc.14(@vuepress/bundler-vite@2.0.0-rc.14(@types/node@22.1.0)(sass@1.77.8)(terser@5.31.3))(vue@3.4.35))
       '@vuepress/plugin-pwa':
         specifier: 2.0.0-rc.40
         version: 2.0.0-rc.40(vuepress@2.0.0-rc.14(@vuepress/bundler-vite@2.0.0-rc.14(@types/node@22.1.0)(sass@1.77.8)(terser@5.31.3))(vue@3.4.35))
@@ -22,7 +21,7 @@ importers:
         specifier: ^3.3.0
         version: 3.3.0
       vue:
-        specifier: ^3.4.31
+        specifier: ^3.4.35
         version: 3.4.35
       vuepress:
         specifier: 2.0.0-rc.14
