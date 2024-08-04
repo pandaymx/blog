@@ -18,7 +18,7 @@ export default hopeTheme({
   repo: "pandaymx/blog",
 
   docsDir: "src",
-
+  license: "MIT",
   // 导航栏
   navbar,
 
