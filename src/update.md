@@ -3,10 +3,12 @@
 
 ## 2024-08-05
 
-1. 修改更新历史文档布局布局
+1. 修改更新历史文档布局
+2. 修改项目版本为 `0.0.1`
 
 ---
 1. Modify update history document layout
+2. Modify project version to `0.0.1`
 
 
 ## 2024-08-04
