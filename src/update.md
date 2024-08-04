@@ -1,4 +1,5 @@
 # 更新历史
+
 **Update History**
 
 ## 2024-08-05
@@ -15,6 +16,7 @@
 10. 网站添加下雪效果
 11. 项目主页特性添加闪光效果
 12. 博主头像裁剪为圆形
+13. hr 元素添加车辆图标
 
 ---
 1. Modify update history document layout
@@ -29,7 +31,7 @@
 10. Website adds snow effect
 11. Project homepage features add flashing effect
 12. Blogger avatar is cropped into a circle
-
+13. hr element adds car icon
 
 ## 2024-08-04
 

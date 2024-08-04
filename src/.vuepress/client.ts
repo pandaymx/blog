@@ -4,6 +4,7 @@ import { setupTransparentNavbar } from "vuepress-theme-hope/presets/transparentN
 import { setupSnowFall } from "vuepress-theme-hope/presets/snowFall.js";
 import "vuepress-theme-hope/presets/shinning-feature-panel.scss";
 import "vuepress-theme-hope/presets/round-blogger-avatar.scss";
+import "vuepress-theme-hope/presets/hr-driving-car.scss"
 
 export default defineClientConfig({
   setup() {
