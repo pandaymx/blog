@@ -8,6 +8,7 @@
 3. 添加分享链接功能
 4. 文档添加许可协议
 5. 允许通过别名导入组件
+6. 将博客主页的背景替换为每日必应壁纸
 
 ---
 1. Modify update history document layout
@@ -15,6 +16,7 @@
 3. Add share link feature
 4. Document adds license agreement
 5. Permit importing components by alias
+6. Replace the background of the homepage with the daily Bing wallpaper
 
 
 ## 2024-08-04
