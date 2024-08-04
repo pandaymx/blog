@@ -21,6 +21,7 @@
 15. 添加 PWA
 16. 添加全屏功能
 17. 修改 `hostname` 为 `https://blog.ppmblszdp.xyz`
+18. 修改 `name` 和 `url`
 
 ---
 1. Modify update history document layout
@@ -40,6 +41,7 @@
 15. Add PWA
 16. Add full screen feature
 17. Modify `hostname` to `https://blog.ppmblszdp.xyz`
+18. Modify `name` and `url`
 
 ## 2024-08-04
 

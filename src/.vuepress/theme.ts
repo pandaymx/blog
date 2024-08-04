@@ -7,8 +7,8 @@ export default hopeTheme({
   hostname: "https://blog.ppmblszdp.xyz",
 
   author: {
-    name: "Mr.Hope",
-    url: "https://mister-hope.com",
+    name: "ppmb",
+    url: "https://ppmblszdp.xyz",
   },
 
   iconAssets: "fontawesome-with-brands",
