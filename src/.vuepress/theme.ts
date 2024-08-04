@@ -94,11 +94,16 @@ export default hopeTheme({
       {
         path: "/",
         title: "初次见面",
-        content: "本网站正处于构建状态，因此可能会保存默认的示例",
+        content: "🤝你好，我叫皮皮萌宝，初次见面请多关照。<br>🚀本网站还处在构建状态中，因此会保留官方原文档的一些内容。<br>👇你可以点击下方链接进入默认的 GitHub 地址。<br>⛔如果你希望可以为本文档做贡献，请参考下方的规范。",
         actions: [
           {
             text: "Github 地址",
             link: "https://github.com/pandaymx/blog",
+            type: "primary",
+          },
+          {
+            text: "规范",
+            link: "/preface/",
             type: "primary",
           },
         ],
