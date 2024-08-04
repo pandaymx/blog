@@ -9,7 +9,8 @@
 4. 文档添加许可协议
 5. 允许通过别名导入组件
 6. 将博客主页的背景替换为每日必应壁纸
-7. 将博客主页的描述替换为随机的一言词句。
+7. 将博客主页的描述替换为随机的一言词句
+8. 添加网站运行时间
 
 ---
 1. Modify update history document layout
@@ -18,7 +19,8 @@
 4. Document adds license agreement
 5. Permit importing components by alias
 6. Replace the background of the homepage with the daily Bing wallpaper
-7. Replace the description of the homepage with a random one-sentence phrase.
+7. Replace the description of the homepage with a random one-sentence phrase
+8. Add website running time
 
 
 ## 2024-08-04
