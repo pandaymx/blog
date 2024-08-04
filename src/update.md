@@ -25,6 +25,7 @@
 19. 修改仓库地址
 20. 修改默认页脚
 21. 主题配置中添加站点默认许可证
+22. 添加 Waline 评论功能
 
 ---
 1. Modify update history document layout
@@ -48,6 +49,7 @@
 19. Modify repository address
 20. Modify default footer
 21. Theme configuration adds site default license
+22. Add Waline comment function
 
 ## 2024-08-04
 
