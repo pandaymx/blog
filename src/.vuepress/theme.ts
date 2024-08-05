@@ -7,7 +7,7 @@ export default hopeTheme({
   hostname: "https://blog.ppmblszdp.xyz",
 
   author: {
-    name: "ppmb",
+    name: "皮皮萌宝",
     url: "https://ppmblszdp.xyz",
   },
 
@@ -18,7 +18,7 @@ export default hopeTheme({
   repo: "pandaymx/blog",
 
   docsDir: "src",
-  license: "MIT",
+  license: "CC BY-NC-SA 4.0",
   // 导航栏
   navbar,
 

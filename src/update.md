@@ -2,6 +2,14 @@
 
 **Update History**
 
+## 2024-08-06
+
+1. 修改 license 为 CC BY-NC-SA 4.0
+
+---
+
+1. Modify license to CC BY-NC-SA 4.0
+
 ## 2024-08-05
 
 1. 修改更新历史文档布局
