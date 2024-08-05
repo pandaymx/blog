@@ -1,10 +1,14 @@
-This project is a static website built using Vuerpress and Vuepress-Theme-Hope, and is deployed through GitHub Pages、GitLab Pages and Cloudflare.
+# 皮皮萌宝的博客
+
+<div align="center">
+[简体中文](./README.md) | English
+</div>
 
 这个项目是一个使用 Vuerpress 和 Vuepress-Theme-Hope 构建的静态网站，并通过 GitHub Pages、GitLab Pages 和 Cloudflare 进行部署。
 
-## Usage
+## 使用
 
-### Web
+### 网站
 
 You can access the website through the following links: 
 
@@ -34,3 +38,33 @@ cd blog
 pnpm install
 pnpm run docs:dev
 ```
+
+### PWA
+
+You can use PWA to install the website on your device.
+
+你可以使用 PWA 在你的设备上安装网站。
+
+## 更新
+
+### Web
+
+你无需升级，当我提交到 GitHub 时，GitHub Action 会自动更新 GitHub Pages，因此网页和 GitHub 仓库理论上未同一版本。
+
+### Docker
+
+你需要重新使用 `docker run` 命令重新下载容器并运行。
+
+### pnpm
+
+从 GitHub 上拉取最新仓库并重新安装依赖。
+
+```sh
+git pull
+cd blog
+pnpm install
+```
+
+### PWA
+
+默认使用最新版本。

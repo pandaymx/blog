@@ -9,6 +9,7 @@
 3. 测试 pageInfo 默认显示哪些内容
 4. 显示所有 pageInfo 内容
 5. 添加规范页图标
+6. README 文件分为中英双语
 
 ---
 
@@ -17,6 +18,7 @@
 3. Test what pageInfo displays by default
 4. Display all pageInfo contents
 5. Add norm page icon
+6. README file is divided into Chinese and English
 
 ## 2024-08-05
 
