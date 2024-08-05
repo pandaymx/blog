@@ -1,6 +1,12 @@
 ---
 title: 规范
 icon: 
+isOriginal: true
+category:
+  - 必看
+tag:
+  - 规范
+star: 1
 ---
 
 ## 中文规范
