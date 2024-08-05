@@ -35,8 +35,20 @@ icon:
 
 ## 通用规范
 
+- 如果习惯大于规范，可以适当放宽，但尽量统一，例如简体中文的代码表述应为 `zh-hans`，但不强制要求，可使用 `zh-cn`
+- 不同意政治正确，但尽量尊重他人，例如分支不排斥使用 `master`，但尽量使用 `main`
+
+---
+
+- If customary usage outweighs the standard, it can be appropriately relaxed, but try to maintain consistency. For example, the code representation for Simplified Chinese should be `zh-hans`, but it is not mandatory and `zh-cn` can also be used
+- I don’t agree with political correctness, but I try to respect others. For example, I don’t reject using `master` for branches, but I try to use `main`
+
 ## 更多规范
 
+**More Norms**
 
+不同的编程语言和工具都有各自的规范，不在此列出，会在相关文档中列出。
+
+Different programming languages and tools have their own norms, which are not listed here, and will be listed in the relevant documents.
 
 

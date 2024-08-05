@@ -5,10 +5,12 @@
 ## 2024-08-06
 
 1. 修改 license 为 CC BY-NC-SA 4.0
+2. 添加通用规范和更多规范
 
 ---
 
 1. Modify license to CC BY-NC-SA 4.0
+2. Add general and more norms
 
 ## 2024-08-05
 
