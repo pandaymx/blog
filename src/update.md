@@ -8,6 +8,7 @@
 2. 添加通用规范和更多规范
 3. 测试 pageInfo 默认显示哪些内容
 4. 显示所有 pageInfo 内容
+5. 添加规范页图标
 
 ---
 
@@ -15,6 +16,7 @@
 2. Add general and more norms
 3. Test what pageInfo displays by default
 4. Display all pageInfo contents
+5. Add norm page icon
 
 ## 2024-08-05
 

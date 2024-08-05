@@ -1,6 +1,6 @@
 ---
 title: 规范
-icon: 
+icon: /assets/icon/norm.svg
 isOriginal: true
 category:
   - 必看
