@@ -6,11 +6,13 @@
 
 1. 修复 README 文件未正常显示的问题
 2. 删除主页自定义页脚和默认提示信息
+3. 添加搜索功能
 
 ---
 
 1. Fix README file not displayed normally
 2. Delete custom page footer and default prompt information
+3. Add search feature
 
 ## 2024-08-06
 

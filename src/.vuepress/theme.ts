@@ -90,6 +90,17 @@ export default hopeTheme({
   // 在这里配置主题提供的插件
   plugins: {
     blog: true,
+    docsearch: {
+      apiKey: "14407429075201c04c864da12fb530b8",
+      indexName: "ppmblszdp",
+      appId: "564TYA0K3B",
+      placeholder: "搜索文档",
+      translations: {
+        button: {
+          buttonText: '搜索文档',
+        },
+      },
+    },
     notice: [
       {
         path: "/",
