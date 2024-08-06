@@ -1,5 +1,11 @@
 # PPMB's Blog
 
+<div align="center">
+
+[简体中文](./README.md) | English
+
+</div>
+
 This project is a static website built using Vuerpress and Vuepress-Theme-Hope, and is deployed through GitHub Pages、GitLab Pages and Cloudflare.
 
 ## Usage

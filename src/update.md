@@ -2,6 +2,14 @@
 
 **Update History**
 
+## 2024-08-07
+
+1. 修复 README 文件未正常显示的问题
+
+---
+
+1. Fix README file not displayed normally
+
 ## 2024-08-06
 
 1. 修改 license 为 CC BY-NC-SA 4.0

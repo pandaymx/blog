@@ -1,7 +1,9 @@
 # 皮皮萌宝的博客
 
 <div align="center">
-[简体中文](./README.md) | English
+
+简体中文 | [English](./README-en.md)
+
 </div>
 
 这个项目是一个使用 Vuerpress 和 Vuepress-Theme-Hope 构建的静态网站，并通过 GitHub Pages、GitLab Pages 和 Cloudflare 进行部署。
@@ -10,15 +12,12 @@
 
 ### 网站
 
-You can access the website through the following links: 
 
 你可以通过以下链接访问网站：
 
 1. [Github Pages](https://blog.ppmblszdp.xyz/)
 
 ### Docker 
-
-You can use Docker to run the website locally.
 
 你可以在本地使用 Docker 运行网站。
 
@@ -27,8 +26,6 @@ docker run -p 80:80 ppmb/blog:latest
 ```
 
 ### pnpm
-
-You can clone the repository from GitHub and use pnpm to install the dependencies and run the website locally.
 
 你可以从 GitHub 克隆仓库，使用 pnpm 安装依赖并运行网站。
 
@@ -40,8 +37,6 @@ pnpm run docs:dev
 ```
 
 ### PWA
-
-You can use PWA to install the website on your device.
 
 你可以使用 PWA 在你的设备上安装网站。
 
