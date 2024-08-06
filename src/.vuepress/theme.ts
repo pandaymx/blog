@@ -91,7 +91,7 @@ export default hopeTheme({
   plugins: {
     blog: true,
     docsearch: {
-      apiKey: "b0b9c1c4241f915c7d424278b327d7c0",
+      apiKey: "245de8b6749b44db33d1186c6ffe9957",
       indexName: "ppmblszdp",
       appId: "564TYA0K3B",
       placeholder: "搜索文档",
