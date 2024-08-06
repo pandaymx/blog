@@ -12,7 +12,7 @@
 
 1. Fix README file not displayed normally
 2. Delete custom page footer and default prompt information
-3. Add search feature
+3. Add search feature.
 
 ## 2024-08-06
 
