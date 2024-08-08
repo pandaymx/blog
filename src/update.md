@@ -2,6 +2,16 @@
 
 **Update History**
 
+## 2024-08-08
+
+1. 更换代码高亮为 prism，默认加载 Markdown 语言
+2. 添加计算机基石章节
+
+---
+
+1. Change code highlighting to prism, load Markdown language by default
+2. Add computer basis chapter
+
 ## 2024-08-07
 
 1. 修复 README 文件未正常显示的问题

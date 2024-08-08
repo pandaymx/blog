@@ -3,6 +3,12 @@ import { navbar } from "vuepress-theme-hope";
 export default navbar([
   "/",
   "/preface/",
+  {
+    text: "基石",
+    icon: "/assets/icon/atom.svg",
+    prefix: "basic/",
+    link: 'basic/'
+  },
   "/demo/",
   {
     text: "博文",

@@ -24,4 +24,5 @@ export default sidebar({
     },
   ],
   "/preface/": "structure",
+  "/basic/": "structure",
 });
