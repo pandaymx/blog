@@ -89,6 +89,14 @@ export default hopeTheme({
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime","Word","PageView"],
   // 在这里配置主题提供的插件
   plugins: {
+    prismjs: {
+      themes: {
+          light: "material-light",
+          dark: "one-dark",
+      },
+      preloadLanguages: ["markdown"],
+      
+    },
     blog: true,
     docsearch: {
       apiKey: "245de8b6749b44db33d1186c6ffe9957",
