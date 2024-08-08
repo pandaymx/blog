@@ -6,11 +6,13 @@
 
 1. 更换代码高亮为 prism，默认加载 Markdown 语言
 2. 添加计算机基石章节
+3. 添加数据结构主页章节
 
 ---
 
 1. Change code highlighting to prism, load Markdown language by default
 2. Add computer basis chapter
+3. Add data structure home chapter
 
 ## 2024-08-07
 

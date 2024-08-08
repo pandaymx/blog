@@ -7,7 +7,11 @@ export default navbar([
     text: "基石",
     icon: "/assets/icon/atom.svg",
     prefix: "basic/",
-    link: 'basic/'
+    children: [{
+      text: "数据结构",
+      icon: "/assets/icon/datastruct.svg",
+      link: "data/"
+    }]
   },
   "/demo/",
   {
