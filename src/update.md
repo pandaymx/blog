@@ -2,6 +2,14 @@
 
 **Update History**
 
+## 2024-08-09
+
+1. 更新数据结构章节的前言图标
+
+---
+
+1. Modify the icon of the preface in the data structure chapter
+
 ## 2024-08-08
 
 1. 更换代码高亮为 prism，默认加载 Markdown 语言

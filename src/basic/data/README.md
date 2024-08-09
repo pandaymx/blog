@@ -1,6 +1,6 @@
 ---
 title: 数据结构
-icon: /assets/icon/datastruct.svg
+icon: /assets/icon/data-structure.svg
 index: false
 timeline: false
 article: false

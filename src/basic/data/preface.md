@@ -1,6 +1,6 @@
 ---
 title: 前言
-icon: /assets/icon/basic.svg
+icon: /assets/icon/preface.svg
 order: 1
 isOriginal: true
 category:
